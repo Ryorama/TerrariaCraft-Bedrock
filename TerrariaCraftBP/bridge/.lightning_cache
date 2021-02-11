@@ -1,0 +1,123 @@
+{
+	"block": {
+		"BP/blocks/grass.json": {
+			"identifiers": [
+				"terraria:grass"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/stone.json": {
+			"identifiers": [
+				"terraria:stone"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/tree_stem.json": {
+			"identifiers": [
+				"terraria:tree_stem"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/tree_trunk.json": {
+			"identifiers": [
+				"terraria:tree_trunk"
+			],
+			"events": [
+				"terraria:destroy_tree"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/tree_top.json": {
+			"identifiers": [
+				"terraria:tree_top"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/workbench.json": {
+			"identifiers": [
+				"terraria:workbench"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"biome": {},
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"item": {
+		"BP/items/copper_sword.json": {
+			"identifiers": [
+				"terraria:copper_sword"
+			],
+			"custom_commands": []
+		},
+		"BP/items/copper_pickaxe.json": {
+			"identifiers": [
+				"terraria:copper_pickaxe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/copper_axe.json": {
+			"identifiers": [
+				"terraria:copper_axe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/copper_shortsword.json": {
+			"identifiers": [
+				"terraria:copper_shortsword"
+			],
+			"custom_commands": []
+		},
+		"BP/items/wood.json": {
+			"identifiers": [
+				"terraria:wood"
+			],
+			"custom_commands": []
+		}
+	},
+	"function": {
+		"1f32aa35_da5e_490c_a800_c5f3118652a8": {}
+	},
+	"recipe": {
+		"BP/recipes/wbr.json": {
+			"tags": [
+				"crafting_table"
+			]
+		}
+	}
+}

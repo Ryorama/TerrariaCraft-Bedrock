@@ -1,0 +1,22 @@
+{
+  "resource_pack_name": "bridgeRP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+	
+		"terraria:copper_pickaxe": {
+			"textures": "textures/items/copper_pickaxe"
+		},
+			"terraria:copper_sword": {
+			"textures": "textures/items/copper_sword"
+		},
+		"terraria:copper_axe": {
+			"textures": "textures/items/copper_axe"
+		},
+		"terraria:copper_shortsword": {
+			"textures": "textures/items/copper_shortsword"
+		},
+		"terraria:wood": {
+			"textures": "textures/items/wood"
+		}
+  }
+}

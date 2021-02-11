@@ -1,0 +1,30 @@
+{
+  "resource_pack_name": "bridgeRP",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+  
+	"grass": {
+			"textures": "textures/blocks/grass"
+	},
+	"dirt": {
+			"textures": "textures/blocks/dirt"
+	},
+	"stone": {
+		"textures": "textures/blocks/stone"
+	},
+	"tree_trunk": {
+			"textures": "textures/blocks/tree_trunk"
+	},
+	"tree_stem": {
+			"textures": "textures/blocks/tree_stem"
+	},
+	"tree_top": {
+		"textures": "textures/blocks/tree_top"
+	},
+	"work_bench": {
+		"textures": "textures/blocks/work_bench"
+	}
+  }
+}

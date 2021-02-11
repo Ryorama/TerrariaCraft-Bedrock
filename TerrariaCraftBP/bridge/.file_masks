@@ -1,0 +1,98 @@
+{
+	"BP/blocks/grass.json": {
+		"data": {}
+	},
+	"BP/blocks/stone.json": {
+		"data": {}
+	},
+	"BP/blocks/tree_stem.json": {
+		"data": {}
+	},
+	"BP/blocks/tree_trunk.json": {
+		"data": {}
+	},
+	"BP/blocks/tree_top.json": {
+		"data": {}
+	},
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"c0921419_588e_4eea_b255_187035a4f7a2": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"ff5aa6ed_117e_4980_b4c2_9708020dabe7": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"7a3cb3da_2860_465f_b5f6_70e6ab1419b7": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"0cd6d60a_7b56_4b39_a029_3dac845fdee6": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"56b002d6_65ea_409a_8dd1_2ce05d725e46": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/items/copper_sword.json": {
+		"data": {}
+	},
+	"BP/items/copper_pickaxe.json": {
+		"data": {}
+	},
+	"BP/items/copper_axe.json": {
+		"data": {}
+	},
+	"BP/items/copper_shortsword.json": {
+		"data": {}
+	},
+	"BP/items/wood.json": {
+		"data": {}
+	},
+	"BP/loot_tables/tree.json": {
+		"data": {}
+	},
+	"BP/blocks/workbench.json": {
+		"data": {}
+	},
+	"BP/recipes/wbr.json": {
+		"data": {}
+	}
+}
