@@ -1,13 +1,13 @@
 {
-	"terraria:grass": {
+	"terraria:grass_t": {
 		"sound": "wood",
 		"textures": "grass"
 	},
-	"terraria:dirt": {
+	"terraria:dirt_t": {
 		"sound": "wood",
 		"textures": "dirt"
 	},
-	"terraria:stone": {
+	"terraria:stone_t": {
 		"sound": "wood",
 		"textures": "stone"
 	},

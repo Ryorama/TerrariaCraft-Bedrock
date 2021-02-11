@@ -3,9 +3,13 @@
 	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
-			"identifier": "terraria:stone"
+			"identifier": "terraria:stone_t"
 		},
-		"components": {},
+		"components": {
+		
+			"minecraft:destroy_time": 2
+			
+		},
 		"events": {}
 	}
 }

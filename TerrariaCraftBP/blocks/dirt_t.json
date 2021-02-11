@@ -1,0 +1,11 @@
+{
+	"format_version": {},
+	"minecraft:block": {
+		"description": {
+			"identifier": "terraria:dirt_t"				
+		},
+		"components": {
+			"minecraft:destroy_time": 1
+		}
+	}
+}

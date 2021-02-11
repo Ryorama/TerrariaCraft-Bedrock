@@ -1,2 +1,12 @@
 pack.name=TerrariaCraft
 pack.description=TerrariaCraft for Bedrock!
+
+item.terraria:copper_sword=Copper Sword
+item.terraria:copper_shortsword=Copper Shortsword
+item.terraria:copper_pickaxe=Copper Pickaxe
+item.terraria:copper_axe=Copper Axe
+
+tile.terraria:grass_t.name=Grass
+tile.terraria:dirt_t.name=Dirt
+tile.terraria:stone_t.name=Stone
+tile.terraria:workbench=Workbench
