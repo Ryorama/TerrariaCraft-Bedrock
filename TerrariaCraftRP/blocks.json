@@ -1,0 +1,30 @@
+{
+	"terraria:grass": {
+		"sound": "wood",
+		"textures": "grass"
+	},
+	"terraria:dirt": {
+		"sound": "wood",
+		"textures": "dirt"
+	},
+	"terraria:stone": {
+		"sound": "wood",
+		"textures": "stone"
+	},
+	"terraria:tree_trunk": {
+		"sound": "wood",
+		"textures": "tree_trunk"
+	},
+	"terraria:tree_stem": {
+		"sound": "wood",
+		"textures": "tree_stem"
+	},
+	"terraria:tree_top": {
+		"sound": "wood",
+		"textures": "tree_top"
+	},
+	"terraria:work_bench": {
+		"sound": "wood",
+		"textures": "work_bench"
+	}
+}
