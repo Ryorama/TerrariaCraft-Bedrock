@@ -1,0 +1,13 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "terraria:grass"
+		},
+		"components": {
+			"minecraft:destroy_time": 1
+		},
+		"events": {}
+	}
+}

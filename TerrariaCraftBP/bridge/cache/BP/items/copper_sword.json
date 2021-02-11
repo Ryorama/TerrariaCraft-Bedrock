@@ -1,0 +1,126 @@
+{
+	"file_path": "C:\\Users\\22MartinR\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\TerrariaCraft\\items\\copper_sword.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "c0921419_588e_4eea_b255_187035a4f7a2",
+	"file_version": 4,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "terraria:copper_sword"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:weapon": {},
+							"minecraft:damage": 8,
+							"minecraft:icon": {
+								"texture": "terraria:copper_sword"
+							}
+						}
+					}
+				},
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "terraria:copper_sword"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:weapon": {},
+							"minecraft:damage": 8,
+							"minecraft:icon": {
+								"texture": "terraria:copper_sword"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:copper_sword"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:weapon": {},
+								"minecraft:damage": 8,
+								"minecraft:icon": {
+									"texture": "terraria:copper_sword"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "terraria:copper_sword"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:copper_sword"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:weapon": {},
+								"minecraft:damage": 8,
+								"minecraft:icon": {
+									"texture": "terraria:copper_sword"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:weapon": {},
+									"minecraft:damage": 8,
+									"minecraft:icon": {
+										"texture": "terraria:copper_sword"
+									}
+								},
+								"key": "minecraft:weapon",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"data": "8",
+								"key": "minecraft:damage"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:weapon": {},
+									"minecraft:damage": 8,
+									"minecraft:icon": {
+										"texture": "terraria:copper_sword"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "terraria:copper_sword"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

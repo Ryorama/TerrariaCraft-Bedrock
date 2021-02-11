@@ -1,0 +1,21 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "terraria:tree_stem"
+		},
+		"components": {
+			"minecraft:destroy_time": 1,
+			"minecraft:geometry": "geometry.tree_stem",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "tree_stem",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:loot": "loot_tables/tree.json"
+		},
+		"events": {}
+	}
+}

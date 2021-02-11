@@ -1,0 +1,53 @@
+{
+	"file_path": "C:\\Users\\22MartinR\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\TerrariaCraft\\blocks\\stone.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "a22632b2_dbbd_4167_9b87_628cb727b511",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "terraria:stone"
+						},
+						"components": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:stone"
+							},
+							"components": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "terraria:stone"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:stone"
+							},
+							"components": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

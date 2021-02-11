@@ -1,0 +1,120 @@
+{
+	"file_path": "C:\\Users\\22MartinR\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\TerrariaCraft\\blocks\\tree_top.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "a5506ad1_de94_47f8_8bf0_ecb6a501037c",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "terraria:tree_top"
+						},
+						"components": {
+							"minecraft:destroy_time": 1,
+							"minecraft:geometry": "geometry.tree_top",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "tree_top",
+									"render_method": "alpha_test"
+								}
+							},
+							"minecraft:loot": "loot_tables/tree.json"
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "terraria:tree_top"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:tree_top"
+							},
+							"components": {
+								"minecraft:destroy_time": 1,
+								"minecraft:geometry": "geometry.tree_top",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "tree_top",
+										"render_method": "alpha_test"
+									}
+								},
+								"minecraft:loot": "loot_tables/tree.json"
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 1,
+									"minecraft:geometry": "geometry.tree_top",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "tree_top",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:loot": "loot_tables/tree.json"
+								},
+								"data": "geometry.tree_top",
+								"key": "minecraft:geometry"
+							},
+							{
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "tree_top",
+												"render_method": "alpha_test"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "tree_top",
+											"render_method": "alpha_test"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 1,
+									"minecraft:geometry": "geometry.tree_top",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "tree_top",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:loot": "loot_tables/tree.json"
+								},
+								"data": "loot_tables/tree.json",
+								"key": "minecraft:loot"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

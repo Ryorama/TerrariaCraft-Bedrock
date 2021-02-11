@@ -1,0 +1,27 @@
+//bridge-file-version: #8
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "terraria:wbr"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"##",
+			"##"
+		],
+		"key": {
+			"#": {
+				"item": "terraria:wood"
+			}
+		},
+		"result": [
+			{
+				"item": "terraria:workbench",
+				"count": 1
+			}
+		]
+	}
+}

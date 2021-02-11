@@ -1,0 +1,144 @@
+{
+	"file_path": "C:\\Users\\22MartinR\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\TerrariaCraft\\items\\copper_axe.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "7a3cb3da_2860_465f_b5f6_70e6ab1419b7",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "terraria:copper_axe"
+						},
+						"components": {
+							"minecraft:digger": {
+								"use_efficiency": true,
+								"destroy_speeds": [
+									{
+										"block": {
+											"tags": "query.any_tag('terrariamod:wood')"
+										},
+										"speed": 2
+									}
+								]
+							},
+							"minecraft:max_stack_size": 1,
+							"minecraft:icon": {
+								"texture": "terraria:copper_axe"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:copper_axe"
+							},
+							"components": {
+								"minecraft:digger": {
+									"use_efficiency": true,
+									"destroy_speeds": [
+										{
+											"block": {
+												"tags": "query.any_tag('terrariamod:wood')"
+											},
+											"speed": 2
+										}
+									]
+								},
+								"minecraft:max_stack_size": 1,
+								"minecraft:icon": {
+									"texture": "terraria:copper_axe"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "terraria:copper_axe"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:copper_axe"
+							},
+							"components": {
+								"minecraft:digger": {
+									"use_efficiency": true,
+									"destroy_speeds": [
+										{
+											"block": {
+												"tags": "query.any_tag('terrariamod:wood')"
+											},
+											"speed": 2
+										}
+									]
+								},
+								"minecraft:max_stack_size": 1,
+								"minecraft:icon": {
+									"texture": "terraria:copper_axe"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"key": "minecraft:digger",
+								"is_minified": true,
+								"children": {
+									"use_efficiency": true,
+									"destroy_speeds": [
+										{
+											"block": {
+												"tags": "query.any_tag('terrariamod:wood')"
+											},
+											"speed": 2
+										}
+									]
+								}
+							},
+							{
+								"data": "1",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"open": {
+									"minecraft:digger": {
+										"use_efficiency": true,
+										"destroy_speeds": [
+											{
+												"block": {
+													"tags": "query.any_tag('terrariamod:wood')"
+												},
+												"speed": 2
+											}
+										]
+									},
+									"minecraft:max_stack_size": 1,
+									"minecraft:icon": {
+										"texture": "terraria:copper_axe"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "terraria:copper_axe"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

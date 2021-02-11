@@ -1,0 +1,11 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "terraria:stone"
+		},
+		"components": {},
+		"events": {}
+	}
+}

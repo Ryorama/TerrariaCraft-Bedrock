@@ -1,0 +1,118 @@
+{
+	"file_path": "C:\\Users\\22MartinR\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\TerrariaCraft\\items\\copper_shortsword.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "0cd6d60a_7b56_4b39_a029_3dac845fdee6",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "terraria:copper_shortsword"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:weapon": {},
+							"minecraft:damage": 4,
+							"minecraft:icon": {
+								"texture": "terraria:copper_shortsword"
+							}
+						}
+					}
+				},
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "terraria:copper_shortsword"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:weapon": {},
+							"minecraft:damage": 4,
+							"minecraft:icon": {
+								"texture": "terraria:copper_shortsword"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:copper_shortsword"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:weapon": {},
+								"minecraft:damage": 4,
+								"minecraft:icon": {
+									"texture": "terraria:copper_shortsword"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "terraria:copper_shortsword"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "terraria:copper_shortsword"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:weapon": {},
+								"minecraft:damage": 4,
+								"minecraft:icon": {
+									"texture": "terraria:copper_shortsword"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"key": "minecraft:weapon",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"data": "4",
+								"key": "minecraft:damage"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:weapon": {},
+									"minecraft:damage": 4,
+									"minecraft:icon": {
+										"texture": "terraria:copper_shortsword"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "terraria:copper_shortsword"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
